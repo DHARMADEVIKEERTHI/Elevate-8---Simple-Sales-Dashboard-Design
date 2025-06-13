@@ -25,6 +25,7 @@ Create an interactive dashboard using Power BI that visualizes sales performance
 
 ## 🗂 Files in this Repo
 - `Superstore_Sales.csv` – Dataset used
+- `elevate_task_8_data_Cleaning.ipynb` – Data Cleaning
 - `Cleaned Superstore_Sales.csv` – Dataset used for PowerBI
 - `Super Store Sales.png` / `Super Store Sales Dashboard.pbix` – Dashboard export
 - `insights.txt` – Written summary of insights
